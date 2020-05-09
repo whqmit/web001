@@ -1,4 +1,4 @@
 <?php
 echo date("Y-m-d H:i:s");
-echo rand(1,1000);
 ?>
+<h1 style="text-align:center">welcome.</h1>
